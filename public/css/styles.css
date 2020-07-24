@@ -43,6 +43,10 @@ input[type="checkbox"] {
   margin: 20px;
 }
 
+input[type="text"] {
+  font-family: 'helvetica neue';
+}
+
 p {
   margin: 0;
   padding: 20px;
